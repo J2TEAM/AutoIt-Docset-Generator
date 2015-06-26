@@ -1,6 +1,6 @@
 # AutoIt Docset Generator
 
-An AutoIt script to generate Dash/Zeal Docset.
+AutoIt and Python script to generate AutoIt Docset for Dash, Zeal and Velocity.
 
 ## Author
 
