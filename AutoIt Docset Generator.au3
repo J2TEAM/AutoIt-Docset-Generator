@@ -58,7 +58,7 @@ MsgBox(64 + 262144, 'Message', 'Done! Total queries: ' & $debug_total_queries)
 
 ;========== FUNCTIONS =============
 Func decompileCHM()
-	If FileExists($documents_dir & 'index.html') Then Return
+	If FileExists($documents_dir & 'index.htm') Then Return
 
 	Local $CHM = @ScriptDir & '\AutoIt.chm'
 
