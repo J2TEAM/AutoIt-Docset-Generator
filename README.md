@@ -11,9 +11,16 @@ An AutoIt script to generate Dash/Zeal Docset.
 ## Usage (step-by-step to generate the docset)
 
 - Download [this script](https://github.com/J2TeaM/AutoIt-Docset-Generator/archive/master.zip) and extract to somewhere you want.
+
+### AutoIt version
 - Make sure you have installed [AutoIt](https://www.autoitscript.com/site/autoit/downloads/).
 - Right-click on the file **AutoIt Docset Generator.au3** and select **Edit Script**.
 - Press **F5** and check **SciTE console** for debug info.
+- A folder named **AutoIt.docset** will be created in the same directory.
+
+### Python version
+- Make sure you have installed [Python](http://python.org/) (2.x).
+- Run **AutoIt Docset Generator.py** with IDLE or Command-Prompt (if you want).
 - A folder named **AutoIt.docset** will be created in the same directory.
 
 ## References
