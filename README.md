@@ -8,7 +8,7 @@ An AutoIt script to generate Dash/Zeal Docset.
 	+ Twitter: [@juno_okyo](https://twitter.com/juno_okyo)
 	+ GitHub: [J2TeaM](https://github.com/J2TeaM)
 
-## Usage
+## Usage (step-by-step to generate the docset)
 
 - Download [this script](https://github.com/J2TeaM/AutoIt-Docset-Generator/archive/master.zip) and extract to somewhere you want.
 - Make sure you have installed [AutoIt](https://www.autoitscript.com/site/autoit/downloads/).
